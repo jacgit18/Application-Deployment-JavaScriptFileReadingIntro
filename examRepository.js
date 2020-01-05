@@ -2,10 +2,6 @@
  * objective to read a JSON file
  */
 
- /**
-  * test
- */
-
  function findAll(fileName, callback){
 
 
